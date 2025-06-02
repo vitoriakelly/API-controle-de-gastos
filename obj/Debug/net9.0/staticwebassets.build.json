@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wHTk+1oCIqgfOmDfjyFR3prlk+uSmCs2tEuA8Ttt3hs=",
+  "Source": "ApiControlGastos",
+  "BasePath": "_content/ApiControlGastos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
